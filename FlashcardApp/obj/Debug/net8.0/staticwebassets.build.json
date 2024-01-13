@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "L++7xUYDgw/ptWRN3HH4rz/fPtXAiJ7qz8e6IDSshyI=",
+  "Source": "FlashcardApp",
+  "BasePath": "_content/FlashcardApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
